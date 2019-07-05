@@ -1,0 +1,5 @@
+The files in this directory are simply the PDF versions of the compressed DVI files in the "dvi" directory.
+
+The files were simply extracted and then converted from DVI to PDF using dvipdf.
+
+This was done by Jean-Philippe Paradis on 5 july 2019 and the resulting files are released into the public domain.
